@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-My first game
+This is the first game i've ever made.
+You're welcome to edit and improve it.
